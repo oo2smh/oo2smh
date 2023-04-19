@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oo2smh
+👋 Hi, I’m @oo2smh
 
 
 <!---
